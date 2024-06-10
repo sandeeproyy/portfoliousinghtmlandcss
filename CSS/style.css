@@ -1,0 +1,51 @@
+.details{
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 50px;
+    height: 10px;
+    margin-right: 30px;
+    padding:10px;
+    font-size:1.5rem;
+    font-family: "Play";
+}
+.about{
+    display:block;
+    width: 500px;
+    font-family: "Play";
+    font-weight: 100;
+    margin-bottom:130px ;
+}
+.name{
+    margin-top: 0px;
+    margin-bottom:5px;
+    font-size: 5rem;
+    color:aqua;
+    font-family: "Play";
+}
+.website{
+    height: 100vh;
+    background-color: #000000;
+}
+h3{
+    margin-top: 0px;
+    font-size: 1rem;
+    color: aqua;
+    font-family: "Play";
+}
+.about_container{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+.radial-text-gradient{
+    background: radial-gradient(circle, #33FF00, aqua);
+                -webkit-background-clip: text;
+                background-clip: text;
+                color: transparent;
+}
+.dropdown-content{
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 50px;
+}
