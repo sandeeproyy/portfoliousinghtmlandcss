@@ -1,9 +1,4 @@
-body{
-    background-color:black;
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+
 .details{
     display: flex;
     flex-direction: row-reverse;
@@ -49,6 +44,12 @@ h3{
                 -webkit-background-clip: text;
                 background-clip: text;
                 color: transparent;
+}
+body{
+    background-color:black;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 .dropdown-content{
     display: flex;
