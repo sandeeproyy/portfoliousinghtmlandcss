@@ -1,3 +1,6 @@
+body{
+    background-color:black;
+}
 .details{
     display: flex;
     flex-direction: row-reverse;
